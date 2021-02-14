@@ -17,5 +17,6 @@
 
 .span{
     font-size: 100px;
-    color: black;
+    color: white;
+    text-transform: uppercase;
 }
